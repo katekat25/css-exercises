@@ -20,6 +20,7 @@ body {
 .left-bar, .right-bar {
   display: flex;
   align-items: center;
+  gap: 16px;
 }
 
 
@@ -44,17 +45,18 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
-  margin: 16px;
 }
 
 a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  margin: 8px;
 }
 
 ul {
   list-style-type: none;
   display: flex;
+  gap: 16px;
+  margin: 0;
+  padding: 0;
 }
