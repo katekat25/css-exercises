@@ -51,7 +51,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   display: flex;
-  flex-basis: 33%;
+  flex-basis: 30%;
   padding: 16px;
 }
 
