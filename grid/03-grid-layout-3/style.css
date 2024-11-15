@@ -13,7 +13,6 @@ ul {
   height: 100vh;
   display: grid;
   grid-template-columns: 1fr 4fr;
-  grid-template-rows: 2fr 1fr 1fr 1fr;
   gap: 4px;
 }
 
@@ -117,6 +116,7 @@ ul {
   color: black;
   font-weight: normal;
   font-size: 14px;
+  padding: 5px;
 }
 
 .card .title {
